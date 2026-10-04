@@ -1,0 +1,3 @@
+My name is John Caleb.
+I am learning Git and GitHub.
+This is my first Git practice repository.
